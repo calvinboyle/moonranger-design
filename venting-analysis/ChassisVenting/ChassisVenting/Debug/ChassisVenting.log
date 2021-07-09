@@ -1,0 +1,9 @@
+﻿  ChassisVenting.cpp
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(23,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(35,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(36,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(41,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(44,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(49,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\ChassisVenting\ChassisVenting.cpp(50,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ChassisVenting.vcxproj -> C:\Users\Calvin\code\moonranger-design\venting-analysis\ChassisVenting\Debug\ChassisVenting.exe
