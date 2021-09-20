@@ -3,6 +3,6 @@ This script predicts the internal over-pressure of the MoonRanger structural cha
 
 This analysis uses a simple Euler's method approximation of the oriface discharge equations. The chassis vent is covered by a felt filter and the flow resistance per area has been determined experimentally. 
 
-Below is an example output of the script for the 1.00" dia. vent hole selected for the flight rover.
+Below is an example output of the script for the 1.00" dia. vent hole selected for the flight rover. The internal over pressure is shown to be kept below the target limit of 1 psi.
 
 ![plot](chassis-venting-ex.png)
