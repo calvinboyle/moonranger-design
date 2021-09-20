@@ -5,4 +5,4 @@ This analysis uses a simple Euler's method approximation of the oriface discharg
 
 Below is an example output of the script for the 1.00" dia. vent hole selected for the flight rover.
 
-![plot](MoonRanger Chassis Venting.png)
+![plot](./MoonRanger Chassis Venting.png)
